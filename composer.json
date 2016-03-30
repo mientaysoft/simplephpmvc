@@ -1,0 +1,20 @@
+{
+	"name": "webtechnology/simplemvc",
+	"description": "Simple PHP MVC",
+	"license": "MIT",
+	"authors": [
+	{
+		"name": "Nguyen Thanh Luan",
+		"email": "thanhluan12a14@gmail.com"
+	}
+	],
+	"require": {
+		"noahbuscher/macaw": "dev-master"
+	},
+	"minimum-stability": "stable",
+	"autoload": {
+		"psr-4": {
+			"App\\": "app/"
+		}
+	}
+}

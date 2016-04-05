@@ -4,7 +4,7 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#composer-lock-the-lock-file",
         "This file is @generated automatically"
     ],
-    "hash": "5890e0e972c485cd0fe65530028ddd0f",
+    "hash": "8cc478652d01aefa3fe0aac6f7e25100",
     "content-hash": "e35ccc5f04cb8e1f02a0ea219bf29aa3",
     "packages": [
         {
@@ -13,12 +13,12 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/noahbuscher/Macaw.git",
-                "reference": "9c0095b26474c1f333770a6024ca0088e103538b"
+                "reference": "57426d1a5d0993dc094ceafcf54be0b86c795f61"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/noahbuscher/Macaw/zipball/9c0095b26474c1f333770a6024ca0088e103538b",
-                "reference": "9c0095b26474c1f333770a6024ca0088e103538b",
+                "url": "https://api.github.com/repos/noahbuscher/Macaw/zipball/57426d1a5d0993dc094ceafcf54be0b86c795f61",
+                "reference": "57426d1a5d0993dc094ceafcf54be0b86c795f61",
                 "shasum": ""
             },
             "require": {
@@ -35,7 +35,7 @@
                 "MIT"
             ],
             "description": "Simple PHP router class.",
-            "time": "2016-02-08 18:45:58"
+            "time": "2016-04-05 01:58:47"
         }
     ],
     "packages-dev": [],

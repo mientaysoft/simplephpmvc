@@ -21,7 +21,7 @@
 	define('BASEURL', 'https://localhost/simplephpmvc/public');
 ?&gt;</pre>
 			</p>
-			<p>1. Mở tập tin: <pre>public/.htaccess</pre></p>
+			<p>2. Mở tập tin: <pre>public/.htaccess</pre></p>
 			<p>- Chỉnh sữa giá trị: <code>RewriteBase /</code> thành giá trị đường dẫn gốc đến thư mục gốc của ưng dụng</p>
 			<p>Ví dụ: Hiện tại thư mục chứa ứng dụng đặt tại thư mục: <strong>/xampp/htdocs/simplephpmvc</strong> Vậy giá trị RewriteBase sẽ là</p>
 			<p><code>RewriteBase /simplephpmvc/public/</code></p>
